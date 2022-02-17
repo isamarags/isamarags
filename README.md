@@ -1,6 +1,6 @@
 ## Olá, me chamo Isamara
 
-I’m currently front-end;
+I’m currently studying front-end;
 <br>
  📚 Javascript, HTML & CSS 📚 
 <br> 
