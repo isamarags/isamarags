@@ -1,8 +1,6 @@
 ## Olá, me chamo Isamara
 
-I’m currently studying front-end;
-<br>
- 📚 Javascript, HTML, CSS & Bootstrap 📚 
+I’m currently studying Node.js, TypeScript, PostgreSQL, métodos HTTP, APIs Restful. Também possuo conhecimento em tecnologias front-end: Javascript, HTML, CSS & Bootstrap 📚 
 <br> 
 
   <div align="center">
