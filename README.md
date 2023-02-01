@@ -1,6 +1,16 @@
-## Hello there, I'm Isamara.
+## Hello there, sou Isamara!
 
-I’m currently studying Node.js, TypeScript, PostgreSQL, métodos HTTP, APIs Restful. I also have knowledge in front-end technologies: Javascript, HTML, CSS & Bootstrap 📚 
+Sou estudante de Tecnologia em Sistemas para Internet pelo Instituto Federal de Brasília (IFB) e formada no curso técnico de Informática  pela escola técnica de Brasília.
+
+Uma pessoa que adora tecnologias novas e sempre buscando constantes aprendizados.
+
+Technologies 📚
+Front-end Development with HTML, CSS, Bootstrap, Javascript, TypeScript and ReactJS.
+Back-end Development with Node.js w/ Express
+HTTP methods in RESTful API development
+DBs: PostgreSQL and MongoDB
+
+
 <br> 
 
   <div align="center">
@@ -10,11 +20,20 @@ I’m currently studying Node.js, TypeScript, PostgreSQL, métodos HTTP, APIs Re
 </div>
   
   <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Isamara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Isamara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Isamara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+  <img align="center" alt="Isamara-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+  <img align="center" alt="Isamara-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
+  <img align="center" alt="Isamara-Bt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"> 
+  <img align="center" alt="Isamara-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
+  <img align="center" alt="Isamara-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"> 
+  <img align="center" alt="Isamara-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> 
+  <img align="center" alt="Isamara-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">   
+  <img align="center" alt="Isamara-Ex" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">
+  <img align="center" alt="Isamara-PSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"> 
+  <img align="center" alt="Isamara-NoSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"> 
+
 </div>
-  
+ 
   ##
   
   <div align="center"> 
