@@ -5,10 +5,10 @@ Sou estudante de Tecnologia em Sistemas para Internet pelo Instituto Federal de 
 Uma pessoa que adora tecnologias novas e sempre buscando constantes aprendizados.
 
 Technologies 📚
-Front-end Development with HTML, CSS, Bootstrap, Javascript, TypeScript and ReactJS.
-Back-end Development with Node.js w/ Express
-HTTP methods in RESTful API development
-DBs: PostgreSQL and MongoDB
+- Front-end Development with HTML, CSS, Bootstrap, Javascript, TypeScript and ReactJS.
+- Back-end Development with Node.js w/ Express
+- HTTP methods in RESTful API development
+- DBs: PostgreSQL and MongoDB
 
 
 <br> 
