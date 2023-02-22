@@ -6,7 +6,7 @@ Uma pessoa que adora tecnologias novas e sempre buscando constantes aprendizados
 
 Technologies 📚
 - Front-end Development with HTML, CSS, Bootstrap, Javascript, TypeScript and ReactJS.
-- Back-end Development with Node.js w/ Express
+- Back-end Development with Java & Node.js w/ Express
 - HTTP methods in RESTful API development
 - DBs: PostgreSQL and MongoDB
 
