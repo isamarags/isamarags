@@ -4,5 +4,5 @@ Sou estudante de Tecnologia em Sistemas para Internet pelo Instituto Federal de 
 Uma pessoa que adora tecnologias novas e sempre buscando constantes aprendizados.
 
 Tecnologias 📚
-- Back-end Development with Java & Python with Flask, SQL and NoSQL
+- Back-end Development with Java, Node.js & Python with Flask, SQL and NoSQL
 - HTTP methods in RESTful API development
