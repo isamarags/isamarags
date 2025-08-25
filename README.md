@@ -1,8 +1,13 @@
 ## Hello there, sou Isamara!
 
-Sou estudante de Tecnologia em Sistemas para Internet pelo Instituto Federal de Brasília (IFB) e formada no curso técnico de Informática  pela escola técnica de Brasília.
-Uma pessoa que adora tecnologias novas e sempre buscando constantes aprendizados.
+Sou formada em Sistemas de Internet no Instituto Federal de Brasília, sou extremamente apaixonada por tecnologia. 
+
+Caso queira saber mais sobre mim, fique à vontade para entrar em contato. Estou disponível para compartilhar mais detalhes. Agradeço desde já a sua atenção.
 
 Tecnologias 📚
-- Back-end Development with Java, Node.js & Python with Flask, SQL and NoSQL
-- HTTP methods in RESTful API development
+- Desenvolvimento back-end com Node.js utilizando Javascript/Typescript, Python with Flask, Golang e C# usando .net;
+- Desenvolvimento front-end com React.js;
+- Testes automatizados com Jest e Pytest;
+- Conhecimento em infraestrutura como Containers (Docker), Terraform, e integração contínua (CI/CD);
+- Experiência em serviços em nuvem como Google Cloud Platform (serviços de mensageria e filas como Pub/Sub, Buckets e Cloud Functions);
+- Metodologia Ágil Scrum (planning, daily, sprints, review, retrospectiva e planning poker) e Kanban;
