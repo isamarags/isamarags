@@ -1,13 +1,51 @@
-## Hello there, sou Isamara!
+**Software Engineer | Backend | APIs & Cloud**
 
-Sou formada em Sistemas de Internet no Instituto Federal de Brasília, sou extremamente apaixonada por tecnologia. 
+Sou formada em **Sistemas para Internet pelo Instituto Federal de Brasília (IFB)** e atuo profissionalmente com desenvolvimento de software, principalmente na construção e evolução de **serviços backend, APIs e integrações entre sistemas**.
 
-Caso queira saber mais sobre mim, fique à vontade para entrar em contato. Estou disponível para compartilhar mais detalhes. Agradeço desde já a sua atenção.
+Atualmente, trabalho com **Python, FastAPI, Node.js e TypeScript**, participando de diferentes etapas do desenvolvimento de aplicações — desde a implementação de funcionalidades e integrações até testes, deploy, monitoramento e manutenção em produção.
 
-Tecnologias 📚
-- Desenvolvimento back-end com Node.js utilizando Javascript/Typescript, Python with Flask, Golang e C# usando .net;
-- Desenvolvimento front-end com React.js;
-- Testes automatizados com Jest e Pytest;
-- Conhecimento em infraestrutura como Containers (Docker), Terraform, e integração contínua (CI/CD);
-- Experiência em serviços em nuvem como Google Cloud Platform (serviços de mensageria e filas como Pub/Sub, Buckets e Cloud Functions);
-- Metodologia Ágil Scrum (planning, daily, sprints, review, retrospectiva e planning poker) e Kanban;
+Tenho interesse em **engenharia de software, arquitetura de sistemas, cloud, sistemas distribuídos e desenvolvimento de aplicações confiáveis e fáceis de manter**.
+
+### 💻 Tech Stack
+
+**Backend**
+
+`Python` `FastAPI` `Node.js` `TypeScript`
+
+**Cloud & DevOps**
+
+`Google Cloud` `Docker` `CI/CD`
+
+**APIs & Integrações**
+
+`REST APIs` `Swagger/OpenAPI` `Pub/Sub`
+
+**Testes & Qualidade**
+
+`Pytest` `Jest` `Automated Testing`
+
+**Observabilidade**
+
+`Logs` `Monitoring` `Tracing`
+
+### 🚀 Atualmente estudando
+
+Tenho usado projetos pessoais para aprofundar meus conhecimentos em **engenharia de software e backend**, explorando principalmente:
+
+* **Golang**
+* Arquitetura de aplicações e sistemas distribuídos
+* Mensageria e processamento assíncrono
+* PostgreSQL e Redis
+* Observabilidade
+* Testes automatizados
+* Containers e CI/CD
+* Boas práticas e design de software
+
+
+### 📫 Onde me encontrar
+
+[LinkedIn](https://www.linkedin.com/in/isamarags/)
+
+---
+
+💡 *Sempre buscando aprender, construir e entender melhor como transformar problemas em soluções de software.*
